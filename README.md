@@ -6,3 +6,4 @@ Fomos desafiados a criar um portifólio vencedor, recebemos dicas das boas prát
 Aprendemos como contribuir em um projeto open source com github, a curva de aprendizado está sendo bastante acentuada mas de maneira confortável até mesmo para quem nunca teve contato com a ferramenta.
 Agora estamos aprendendo como localizando Serviços por Categoria no Microsoft Azure.
 Aprendemos também sobre os benefícios da Nuvem, todo esse aprendizado tem sido bastante enriquecedor nos dando uma nova perspequitiva sobre o assunto tão falado sobre serviços em nuvem, criação de máquinas virtuais, tipos de serviços em nuvem e desafio sobre configuração de uma instância de banco de dados no Microsoft Azure.
+Componente e arquiteturas do Azure, houve uma apresentação bastante instrutiva, componentes de desse tipo de arquitetura, ao fial um formulário com perguntas relacionadas ao conhecimento adquirido e em seguida o material de apoio para suporte.
