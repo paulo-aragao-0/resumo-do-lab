@@ -5,4 +5,4 @@ Iniciamos com Introdução ao Azure Essentials com a Microsoft, carga horária d
 Fomos desafiados a criar um portifólio vencedor, recebemos dicas das boas práticas.
 Aprendemos como contribuir em um projeto open source com github, a curva de aprendizado está sendo bastante acentuada mas de maneira confortável até mesmo para quem nunca teve contato com a ferramenta.
 Agora estamos aprendendo como localizando Serviços por Categoria no Microsoft Azure.
-Aprendemos também sobre os benefícios da Nuvem, todo esse aprendizado tem sido bastante enriquecedor nos dando uma nova perspequitiva sobre o assunto tão falado sobre serviços em nuvem.
+Aprendemos também sobre os benefícios da Nuvem, todo esse aprendizado tem sido bastante enriquecedor nos dando uma nova perspequitiva sobre o assunto tão falado sobre serviços em nuvem, criação de máquinas virtuais, tipos de serviços em nuvem e desafio sobre configuração de uma instância de banco de dados no Microsoft Azure.
